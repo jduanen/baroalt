@@ -1,4 +1,4 @@
-# baroalt
+# BaroAlt
 Barometric Altimeter that Logs Altitude and Displays Sample Statistics
 
 **WIP**
